@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
