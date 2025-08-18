@@ -32,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
