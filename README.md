@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
