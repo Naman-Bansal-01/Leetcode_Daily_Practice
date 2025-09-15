@@ -16,12 +16,13 @@ public:
         for(int i=a+1;i<n;i++){
             if(nums[i]!=0){
                 nums[a]=nums[i];
+                nums[i]=0;
                 a++;
             }
         }
-        for(int i=a;i<n;i++){
-            nums[i]=0;
-        }
+        // for(int i=a;i<n;i++){
+        //     nums[i]=0;
+        // }
         
     }
 };
