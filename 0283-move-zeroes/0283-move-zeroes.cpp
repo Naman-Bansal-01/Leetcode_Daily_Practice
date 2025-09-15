@@ -12,9 +12,7 @@ public:
         if(a >=n){
             return;
         }
-        // while(nums[a]!=0 && a<n){
-        //     a++;
-        // }
+        
         for(int i=a+1;i<n;i++){
             if(nums[i]!=0){
                 nums[a]=nums[i];
