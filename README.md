@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0792-binary-search) |
@@ -35,16 +36,19 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
@@ -56,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
