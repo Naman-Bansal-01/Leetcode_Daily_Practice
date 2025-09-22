@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0792-binary-search) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
