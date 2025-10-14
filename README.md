@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Naman-Bansal-01/Leetcode_Daily_Practice/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
